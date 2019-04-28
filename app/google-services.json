@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "715737143551",
+    "firebase_url": "https://memorila.firebaseio.com",
+    "project_id": "memorila",
+    "storage_bucket": "memorila.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715737143551:android:491fa8fbe93f3f3f",
+        "android_client_info": {
+          "package_name": "com.example.memorila"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715737143551-o0e91k9stnf6i8l4si3eai67mcv1oa42.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.memorila",
+            "certificate_hash": "bb8a9f76195617fac8e5d05500e9f12768a59c7c"
+          }
+        },
+        {
+          "client_id": "715737143551-1othftjcgp9pe95utf2o4speunbfm3je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgdDpdi0uryIUYZJf6-D_u71Lc-sjniAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715737143551-1othftjcgp9pe95utf2o4speunbfm3je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
